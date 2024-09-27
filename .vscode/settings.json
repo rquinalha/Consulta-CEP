@@ -1,0 +1,14 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": {
+    "include": [
+      "c:\\Users\\rquin\\Downloads\\ONE\\JAVA\\Consulta CEP\\lib\\gson-2.11.0.jar"
+    ],
+    "exclude": [
+      "lib/gson-2.11.0.jar"
+    ]
+  }
+}
